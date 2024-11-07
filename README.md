@@ -1,5 +1,5 @@
 ## Hi there 👋 (🚧 Under Construction... 🚧)
-![Apresentação Profissional Cacia S R Sousa](apresentacaoCacia02.png)
+![Apresentação Profissional Cacia S R Sousa](IntroducaoCacia02.png)
 
 <!--
 **CaciaRodrigues/CaciaRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

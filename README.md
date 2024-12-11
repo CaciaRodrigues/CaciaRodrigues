@@ -2,7 +2,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 
-<div style="font-family: 'Montserrat', sans-serif; color: #F3DBEA; font-size: 17px; height: 100%">
+<div style="font-family: 'Montserrat', sans-serif; color: #F3DBEA; font-size: 25px; height: 100%">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:55062D,50:660033,100:802754&text=Hello,%20I'm%20Cacia&fontAlignY=40&fontColor=250715&fontSize=60&animation=fadeIn&section=header"/>
    

@@ -7,7 +7,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:55062D,50:660033,100:802754&text=Hello,%20I'm%20Cacia&fontAlignY=40&fontColor=250715&fontSize=60&animation=fadeIn&section=header"/>
    
 
-<p style="height: 100px">I'm a fullstack software developer from São Paulo, Brasil currently focused on developing with Java, JavaScript and React. Around here you will find many of my project from fully focused on either front-end or back-end to full stack projects. Welcome and feel free to take a look around!</p>
+<p style="height: 100px">I'm a fullstack software developer from São Paulo, Brasil currently focused on developing with Java, JavaScript and React. Around here you will find many of my projects from fully focused on either Front-End or Back-End to FullStack applications. Welcome and feel free to take a look around!</p>
 
 ###
 <div align="center" style="width:100% ;height: 200px; display: flex; justify-content: space-around;" >

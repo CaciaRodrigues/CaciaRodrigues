@@ -44,7 +44,7 @@
 
 ### For Contact:
 <div align="left" style="width: 15%; display: flex; justify-content: space-around; margin-top: 15px; margin-bottom: 50px">
-  <a href="www.linkedin.com/in/caciarodrigues" target="_blank">
+  <a href="https://www.linkedin.com/in/cacia-rodrigues-57b16b193/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
   </a>
   <a href="caciasrsousa@gmail.com" target="_blank">
